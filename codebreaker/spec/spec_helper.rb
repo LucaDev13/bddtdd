@@ -6,4 +6,4 @@
 # We make no guarantees that this code is fit for any purpose. 
 # Visit http://www.pragmaticprogrammer.com/titles/achbd for more book information.
 #---
-require 'codebreaker/game'
+require 'codebreaker'
